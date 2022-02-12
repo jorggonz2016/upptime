@@ -9,8 +9,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-   -name: Sohua Github
-    url: https://jorggonz2016.github.io
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
